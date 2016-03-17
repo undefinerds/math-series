@@ -1,7 +1,8 @@
 #Math Infinite Series
 
 Presentation for alternant infinite series using 
-[Reveal.js](https://github.com/hakimel/reveal.js)
+[Reveal.js](https://github.com/hakimel/reveal.js) and highlights from 
+[Girl Develop It](https://github.com/girldevelopit) repositories.
 
 ## Folder Structure
 - **css/** Core styles without which the project does not function
